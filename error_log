@@ -1,0 +1,3594 @@
+[20-Nov-2010 05:16:04] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:05] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:05] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:06] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:07] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:07] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:07] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 05:16:07] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[20-Nov-2010 22:26:51] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Not found' in /home/semant11/public_html/linkeddata/extraction/twitter.php:556
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/twitter.php(1251): Twitter->doCall('users/show.json', Array)
+#1 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('???')
+#2 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('???')
+#3 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('???')
+#4 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 556
+[21-Nov-2010 00:50:26] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Not found' in /home/semant11/public_html/linkeddata/extraction/twitter.php:556
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/twitter.php(1251): Twitter->doCall('users/show.json', Array)
+#1 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('???')
+#2 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree('???')
+#3 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('???')
+#4 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 556
+[21-Nov-2010 01:43:35] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow(NULL)
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(14): createUserTripleTree(NULL)
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser(NULL)
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 14:08:35] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow(NULL)
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree(NULL)
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser(NULL)
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:09:10] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:09:11] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:09:57] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:09:57] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:10:02] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[21-Nov-2010 19:10:10] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[22-Nov-2010 06:48:15] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Not found' in /home/semant11/public_html/linkeddata/extraction/twitter.php:556
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/twitter.php(1251): Twitter->doCall('users/show.json', Array)
+#1 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('???')
+#2 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('???')
+#3 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('???')
+#4 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 556
+[22-Nov-2010 08:00:03] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('')
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(15): createUserTripleTree('')
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('')
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[22-Nov-2010 20:37:27] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Not found' in /home/semant11/public_html/linkeddata/extraction/twitter.php:556
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/twitter.php(1251): Twitter->doCall('users/show.json', Array)
+#1 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('???')
+#2 /home/semant11/public_html/linkeddata/extraction/annotator.php(16): createUserTripleTree('???')
+#3 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('???')
+#4 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 556
+[22-Nov-2010 23:02:46] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Not found' in /home/semant11/public_html/linkeddata/extraction/twitter.php:556
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/twitter.php(1251): Twitter->doCall('users/show.json', Array)
+#1 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow('???')
+#2 /home/semant11/public_html/linkeddata/extraction/annotator.php(16): createUserTripleTree('???')
+#3 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser('???')
+#4 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 556
+[24-Nov-2010 20:24:59] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow(NULL)
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(16): createUserTripleTree(NULL)
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser(NULL)
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[25-Nov-2010 09:01:05] PHP Fatal error:  Uncaught exception 'TwitterException' with message 'Specify an id or an userId or a screenName.' in /home/semant11/public_html/linkeddata/extraction/twitter.php:1243
+Stack trace:
+#0 /home/semant11/public_html/linkeddata/extraction/userprofilemodel.php(16): Twitter->usersShow(NULL)
+#1 /home/semant11/public_html/linkeddata/extraction/annotator.php(16): createUserTripleTree(NULL)
+#2 /home/semant11/public_html/linkeddata/extraction/twitter_user_n3.php(11): annotateUser(NULL)
+#3 {main}
+  thrown in /home/semant11/public_html/linkeddata/extraction/twitter.php on line 1243
+[27-Nov-2010 05:23:04] PHP Warning:  parse_url(http://e:File.jpg) [<a href='function.parse-url'>function.parse-url</a>]: Unable to parse URL in /home/semant11/public_html/linkeddata/extraction/ontologies.php on line 37
+[27-Nov-2010 05:23:04] PHP Warning:  array_key_exists() [<a href='function.array-key-exists'>function.array-key-exists</a>]: The second argument should be either an array or an object in /home/semant11/public_html/linkeddata/extraction/ontologies.php on line 38
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:08] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:14] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:15] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:16] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:17] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:18] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:19] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:22] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:23] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:25] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:26] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:27] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:28] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:29] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:30] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:33] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:33] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:33] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:33] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:34] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:35] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:36] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:37] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:39] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:40] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:40] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:40] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:40] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:40] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:41] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:42] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:43] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:47] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:48] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:49] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:50] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:51] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:52] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:53] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:54] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:55] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:56] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:57] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:23:58] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:00] PHP Warning:  parse_url(http://e:File.jpg) [<a href='function.parse-url'>function.parse-url</a>]: Unable to parse URL in /home/semant11/public_html/linkeddata/extraction/ontologies.php on line 37
+[27-Nov-2010 05:24:00] PHP Warning:  array_key_exists() [<a href='function.array-key-exists'>function.array-key-exists</a>]: The second argument should be either an array or an object in /home/semant11/public_html/linkeddata/extraction/ontologies.php on line 38
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:03] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:04] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:09] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:10] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:11] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:12] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-2010 05:24:13] SPARQL Error:
+No loader available for "":  in ARC2_StoreLoadQueryHandler
+[27-Nov-
